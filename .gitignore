@@ -1,0 +1,19 @@
+# Ignore all .exe files (Windows)
+*.exe
+
+# Ignore compiled object files
+*.o
+*.out
+
+# Ignore backups and temp
+*~
+*.swp
+*.bak
+
+# Ignore build folders
+/build/
+/bin/
+/dist/
+
+# Ignore Mac/Linux hidden files
+.DS_Store
