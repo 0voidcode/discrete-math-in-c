@@ -15,7 +15,7 @@ A collection of C programs that implement fundamental concepts of Discrete Mathe
 ## Getting Started
 1. **Clone the repository**
 ```bash
-git clone https://github.com/0voidcode/discrete-math-in-c.git
+git clone https://github.com/w3void/discrete-math-in-c.git
 ```
 
 2. **Compile and run using Makefile**
