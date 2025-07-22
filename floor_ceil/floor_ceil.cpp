@@ -13,7 +13,7 @@ int floor(float num) {
 int ceil(float num) {
 	int intPart = (int)num;
 
-	if(intPart = num) {
+	if(intPart == num) {
 		return intPart;
 	} else if(num >= 0) {
 		return intPart + 1;
